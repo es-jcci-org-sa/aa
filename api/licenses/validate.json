@@ -1,0 +1,10 @@
+{
+  "data": {
+    "key": "b967a1f0-db82-4475-9ce5-2d97373b8874",
+    "isRevoked": false,
+    "isExpired": false,
+    "token": "eyJwYXlsb2FkIjp7ImRvbWFpbnMiOltdLCJwbGFuIjoiZW50ZXJwcmlzZSIsImZlYXR1cmVzIjpbXSwibGltaXRzIjpudWxsLCJleHAiOiJGcmkgRmViIDEyIDIwMjcgMDA6MDA6MDAgR01UKzAwMDAgKENvb3JkaW5hdGVkIFVuaXZlcnNhbCBUaW1lKSIsInRva2VuRXhwaXJ5IjoiMjAyNi0wOC0yMVQyMDowNjoxOC44OTlaIn0sInNpZ25hdHVyZSI6IkJaZWpGdUQwZjdOSVRIT0lCZTNTZlZNcUNzdmhzYmthVlBvZEhOTjBmNUc3cVJWMjlVTWN3bVZVOXprNTVNS0ZGOGdVcktWM3VoSnVvYXlCWHV6SVpjTFZaZmRZQ2FPQVAwa25oTzBOTnhTSFBqTFh3WlNtcnNjUnZpNmNndm11OXRGMExya2JkSWJaNGxSZWFlNVZIS09kWVF0QjEweEpveTd2UTdxMllROD0ifQ=="
+  },
+  "message": "",
+  "error": ""
+}
